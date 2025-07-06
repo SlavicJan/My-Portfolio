@@ -9,9 +9,10 @@
 - **Визуализация данных**: [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/python/)
 
 ### Среда разработки:
-- [Jupyter Notebook](https://jupyter.org/)--позже дам ссылки на проекты
-- [Google Colab](https://colab.research.google.com/)--позже дам ссылки на проекты
-- [Intellij IDEA Community edition](https://www.jetbrains.com/ru-ru/idea/)--позже дам ссылки на проекты
+- [Jupyter Notebook](https://jupyter.org/)--позже дам ссылки на проекты [текст](#)
+- [Google Colab](https://colab.research.google.com/)  <sub>а это почти незаметный субскрипт</sub>
+- [Intellij IDEA Community edition](https://www.jetbrains.com/ru-ru/idea/)  <font color="#ffffff">Этот текст белый, вы его не увидите</font>
+
 ### Базы данных и SQL:
 - [PostgreSQL](https://www.postgresql.org/)
 - [DBeaver](https://dbeaver.com/)
