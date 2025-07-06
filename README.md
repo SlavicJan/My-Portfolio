@@ -9,9 +9,9 @@
 - **Визуализация данных**: [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/python/)
 
 ### Среда разработки:
-- [Jupyter Notebook](https://jupyter.org/)
-- [Google Colab](https://colab.research.google.com/)
-- [Intellij IDEA Community edition](https://www.jetbrains.com/ru-ru/idea/)
+- [Jupyter Notebook](https://jupyter.org/)--позже дам ссылки на проекты
+- [Google Colab](https://colab.research.google.com/)--позже дам ссылки на проекты
+- [Intellij IDEA Community edition](https://www.jetbrains.com/ru-ru/idea/)--позже дам ссылки на проекты
 ### Базы данных и SQL:
 - [PostgreSQL](https://www.postgresql.org/)
 - [DBeaver](https://dbeaver.com/)
@@ -20,7 +20,7 @@
 
 ---
 
-## Проекты
+## Проекты --позже дам ссылки на проекты
 #**Анализ пользовательского поведения на основе данных поездок**
 Провел анализ поведения пользователей сервиса аренды самокатов
   -Анализ моделей
