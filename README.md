@@ -8,7 +8,7 @@ Telegram: [@vaglover228](https://t.me/vaglover228)
 
 **Языки**  
 - Русский — родной  
-- Английский — B2 (Upper-Intermediate)
+- Английский — B1 (Intermediate)
 
 ### Язык программирования Python и его библиотеки:
 - **Анализ данных**: [Pandas](https://pandas.pydata.org/), [Statsmodels](https://www.statsmodels.org/stable/index.html)
@@ -331,7 +331,7 @@ Built a comprehensive self-service analytics platform for corporate clients to m
 
 **Code & Documentation**  
 - Jupyter Notebook: [cohort_analysis.ipynb](https://github.com/Svyatoslav-Smolsky/analytics/blob/main/cohort/cohort_analysis.ipynb)  
-- Source Data (CSV): [data/cohort_data.csv](https://github.com/Svyatoslav-Smolsky/analytics/blob/main/cohort/data/cohort_data.csv)  
+- Source Data (CSV): [cohort_data.csv](https://github.com/Svyatoslav-Smolsky/analytics/blob/main/cohort/data/cohort_data.csv)  
 
 #### Business Impact:
 - Increased corporate client satisfaction  
