@@ -1,3 +1,149 @@
+## English Resume
+
+---
+
+**Welcome!**  
+This page showcases projects demonstrating skills in data analysis, statistical modeling, and SQL.  
+📧 Email: svyatoslav263@gmail.com  
+✉️ Telegram: [@vaglover228](https://t.me/vaglover228)
+
+## 🔧 Skills & Tools
+
+**Languages**  
+- Russian — Native  
+- English — B1 (Intermediate)
+
+### Python Programming & Libraries:
+- **Data Analysis**: [Pandas](https://pandas.pydata.org/), [Statsmodels](https://www.statsmodels.org/stable/index.html)
+- **Mathematical & Statistical Computing**: [NumPy](https://numpy.org/), [math](https://docs.python.org/3/library/math.html), [SciPy](https://scipy.org/)
+- **Data Visualization**: [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/python/)
+
+### Development Environments:
+- [Jupyter Notebook](https://jupyter.org/) [project links coming soon](#)
+- [Google Colab](https://colab.research.google.com/)
+- [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/)
+
+### Databases & SQL:
+- [PostgreSQL](https://www.postgresql.org/)
+- [DBeaver](https://dbeaver.com/)
+- [Yandex DataLens](https://datalens.yandex.cloud/)
+- [Metabase](https://metabase.com)
+
+---
+
+## Projects
+
+### [**Scooter Rental User Behavior Analysis**](https://github.com/SlavicJan/My-Projects/blob/d19d487c04af3911c2eb80866fb591a9e0ceddce/%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D1%8B%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%D1%8B%20%20(3).pdf)
+Analyzed user behavior for a scooter rental service:  
+- Model analysis  
+- Seasonality patterns  
+- Demand forecasting  
+- Peak usage intervals  
+- Ride cost optimization  
+- Historical data mining  
+**Outcome:**  
+- Identified product growth opportunities  
+- Proposed service improvement hypotheses  
+- Developed marketing solutions  
+
+---
+
+### **Corporate Client Analytics System**
+Built a comprehensive self-service analytics platform for corporate clients to monitor student performance, engagement, financial metrics, and identify educational program bottlenecks.
+
+#### Key Achievements:
+- Designed metric systems for learning effectiveness  
+- Created analytics for student activity and performance  
+- Developed role-specific dashboards (instructors, CFO, marketers)  
+
+#### Analysis Performed:
+- Student attendance and engagement tracking  
+- Course progress and success evaluation  
+- Task completion time analysis  
+- Financial metric calculations (ROI, cost per student)  
+- Educational program bottleneck identification  
+- User acquisition channel analysis  
+
+#### Results:
+- Pinpointed student activity peaks and declines  
+- Identified challenging modules requiring refinement  
+- Calculated cost efficiency of educational programs  
+- Delivered optimization recommendations  
+
+#### Core Metrics:
+- Student activity (sessions, retention)  
+- Module success rates  
+- Average task completion time  
+- Cost per student  
+- Progress indicators (completed modules, completion speed)  
+- Average task resolution time  
+- All-time most challenging task rankings  
+- DAU, MAU  
+- [N-day retention on SQL](https://github.com/SlavicJan/My-Projects/blob/main/%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20N-day%20retention%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7.sql)  
+- Sticky factor 
+- Average daily user balance  
+- Average earnings/spending  
+- Acquisition channel analysis  
+- ROI, payback period, ARPU, LTV  
+
+#### Solutions Implemented:
+- Periodic reporting system (monthly/quarterly/annual)  
+- Role-specific report templates  
+- Educational content/process improvement recommendations  
+- Metric sets for ongoing performance monitoring  
+- Reward system optimization  
+- Pricing strategy refinement  
+- Enhanced marketing strategy  
+
+#### Technologies:
+- Python (Pandas, NumPy, Seaborn)  
+- SQL (PostgreSQL)  
+- Power BI / Metabase  
+- Git / GitHub  
+
+**Code & Documentation**  
+- Jupyter Notebook: [cohort_analysis.ipynb](https://github.com/Svyatoslav-Smolsky/analytics/blob/main/cohort/cohort_analysis.ipynb)  
+- Source Data (CSV): [cohort_data.csv](https://github.com/Svyatoslav-Smolsky/analytics/blob/main/cohort/data/cohort_data.csv)  
+
+#### Business Impact:
+- Increased corporate client satisfaction  
+- Optimized learning processes and student support  
+- Automated reporting and accelerated decision-making  
+- Data-driven educational content improvements  
+
+> **Self-service dashboards** enable any team member—from curriculum designers to executives—to access real-time analytics and make data-informed decisions.
+
+---
+
+### [**Pharmacy Chain ABC-XYZ Analysis**](https://github.com/SlavicJan/My-Projects/blob/main/ABC-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0.sql)
+Conducted ABC-XYZ analysis for major pharmacy chain inventory optimization.
+
+
+<summary>Methodology & Process</summary>
+
+- Collected sales data from PostgreSQL  
+- Calculated ABC groups by revenue (cumulative %)  
+- Determined demand variability (coefficient of variation) for XYZ segmentation  
+- Developed optimal safety stock levels per category  
+- Reduced excess inventory by 20%  
+
+<details>
+**Code & Documentation**  
+- SQL: [abc_xyz_queries.sql](https://github.com/Svyatoslav-Smolsky/analytics/blob/main/abc_xyz/abc_xyz_queries.sql)  
+- Metabase Dashboard: [🔗 Notion Link](/abcxyzdashb)  
+</details>
+---
+
+## 🎓 Education & Courses
+
+- **"Data Analyst Simulator"**, Simulative (2024–Present)  
+- Online Courses: Advanced SQL, Python for Data Science, BI with Metabase, Microsoft Power BI  
+
+---
+
+> **Open to discuss** corporate use cases and customize analytics solutions for your business needs.
+
+
 ## [Go to English version](#en)
 
 Добро пожаловать! На этой странице представлены проекты, демонстрирующие навыки работы с данными, статистическим анализом и SQL.
@@ -226,147 +372,3 @@ Telegram: [@vaglover228](https://t.me/vaglover228)
 
 > **Готов обсудить** любые корпоративные кейсы и настроить аналитику под ваши задачи.
 
-## English Resume
-
----
-
-**Welcome!**  
-This page showcases projects demonstrating skills in data analysis, statistical modeling, and SQL.  
-📧 Email: svyatoslav263@gmail.com  
-✉️ Telegram: [@vaglover228](https://t.me/vaglover228)
-
-## 🔧 Skills & Tools
-
-**Languages**  
-- Russian — Native  
-- English — B2 (Upper-Intermediate)
-
-### Python Programming & Libraries:
-- **Data Analysis**: [Pandas](https://pandas.pydata.org/), [Statsmodels](https://www.statsmodels.org/stable/index.html)
-- **Mathematical & Statistical Computing**: [NumPy](https://numpy.org/), [math](https://docs.python.org/3/library/math.html), [SciPy](https://scipy.org/)
-- **Data Visualization**: [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/python/)
-
-### Development Environments:
-- [Jupyter Notebook](https://jupyter.org/) [project links coming soon](#)
-- [Google Colab](https://colab.research.google.com/)
-- [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/)
-
-### Databases & SQL:
-- [PostgreSQL](https://www.postgresql.org/)
-- [DBeaver](https://dbeaver.com/)
-- [Yandex DataLens](https://datalens.yandex.cloud/)
-- [Metabase](https://metabase.com)
-
----
-
-## Projects
-
-### [**Scooter Rental User Behavior Analysis**](https://github.com/SlavicJan/My-Projects/blob/d19d487c04af3911c2eb80866fb591a9e0ceddce/%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D1%8B%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%D1%8B%20%20(3).pdf)
-Analyzed user behavior for a scooter rental service:  
-- Model analysis  
-- Seasonality patterns  
-- Demand forecasting  
-- Peak usage intervals  
-- Ride cost optimization  
-- Historical data mining  
-**Outcome:**  
-- Identified product growth opportunities  
-- Proposed service improvement hypotheses  
-- Developed marketing solutions  
-
----
-
-### **Corporate Client Analytics System**
-Built a comprehensive self-service analytics platform for corporate clients to monitor student performance, engagement, financial metrics, and identify educational program bottlenecks.
-
-#### Key Achievements:
-- Designed metric systems for learning effectiveness  
-- Created analytics for student activity and performance  
-- Developed role-specific dashboards (instructors, CFO, marketers)  
-
-#### Analysis Performed:
-- Student attendance and engagement tracking  
-- Course progress and success evaluation  
-- Task completion time analysis  
-- Financial metric calculations (ROI, cost per student)  
-- Educational program bottleneck identification  
-- User acquisition channel analysis  
-
-#### Results:
-- Pinpointed student activity peaks and declines  
-- Identified challenging modules requiring refinement  
-- Calculated cost efficiency of educational programs  
-- Delivered optimization recommendations  
-
-#### Core Metrics:
-- Student activity (sessions, retention)  
-- Module success rates  
-- Average task completion time  
-- Cost per student  
-- Progress indicators (completed modules, completion speed)  
-- Average task resolution time  
-- All-time most challenging task rankings  
-- DAU/MAU  
-- [N-day retention](https://github.com/SlavicJan/My-Projects/blob/main/%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20N-day%20retention%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7.sql)  
-- Sticky factor  
-- Average daily user balance  
-- Average earnings/spending  
-- Acquisition channel analysis  
-- ROI, payback period, ARPU, LTV  
-
-#### Solutions Implemented:
-- Periodic reporting system (monthly/quarterly/annual)  
-- Role-specific report templates  
-- Educational content/process improvement recommendations  
-- Metric sets for ongoing performance monitoring  
-- Reward system optimization  
-- Pricing strategy refinement  
-- Enhanced marketing strategy  
-
-#### Technologies:
-- Python (Pandas, NumPy, Seaborn)  
-- SQL (PostgreSQL)  
-- Power BI / Metabase  
-- Git / GitHub  
-
-**Code & Documentation**  
-- Jupyter Notebook: [cohort_analysis.ipynb](https://github.com/Svyatoslav-Smolsky/analytics/blob/main/cohort/cohort_analysis.ipynb)  
-- Source Data (CSV): [cohort_data.csv](https://github.com/Svyatoslav-Smolsky/analytics/blob/main/cohort/data/cohort_data.csv)  
-
-#### Business Impact:
-- Increased corporate client satisfaction  
-- Optimized learning processes and student support  
-- Automated reporting and accelerated decision-making  
-- Data-driven educational content improvements  
-
-> **Self-service dashboards** enable any team member—from curriculum designers to executives—to access real-time analytics and make data-informed decisions.
-
----
-
-### [**Pharmacy Chain ABC-XYZ Analysis**](https://github.com/SlavicJan/My-Projects/blob/main/ABC-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0.sql)
-Conducted ABC-XYZ analysis for major pharmacy chain inventory optimization.
-
-
-<summary>Methodology & Process</summary>
-
-- Collected sales data from PostgreSQL  
-- Calculated ABC groups by revenue (cumulative %)  
-- Determined demand variability (coefficient of variation) for XYZ segmentation  
-- Developed optimal safety stock levels per category  
-- Reduced excess inventory by 20%  
-
-<details>
-**Code & Documentation**  
-- SQL: [abc_xyz_queries.sql](https://github.com/Svyatoslav-Smolsky/analytics/blob/main/abc_xyz/abc_xyz_queries.sql)  
-- Metabase Dashboard: [🔗 Notion Link](/abcxyzdashb)  
-</details>
----
-
-## 🎓 Education & Courses
-
-- **"Data Analyst Simulator"**, Simulative (2024–Present)  
-- Online Courses: Advanced SQL, Python for Data Science, BI with Metabase, Microsoft Power BI  
-
----
-
-> **Open to discuss** corporate use cases and customize analytics solutions for your business needs.
