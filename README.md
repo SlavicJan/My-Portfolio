@@ -112,7 +112,7 @@ Built a comprehensive self-service analytics platform for corporate clients to m
 #### Technologies:
 - Python (Pandas, NumPy, Seaborn)  
 - SQL (PostgreSQL)  
-- Power BI / Metabase  
+- [Power BI](https://github.com/SlavicJan/My-Projects/blob/3c823fb44cacb64f4baae0493f7c8a78b307abd5/samokaty_kicksharing_new.pdf) / Metabase  
 - Git / GitHub  
 
 **Code & Documentation**  
@@ -288,7 +288,7 @@ Telegram: [@vaglover228](https://t.me/vaglover228)
 
 - Python (Pandas, NumPy, Seaborn)  
 - SQL (PostgreSQL)  
-- Power BI / Metabase  
+- [Power BI](https://github.com/SlavicJan/My-Projects/blob/3c823fb44cacb64f4baae0493f7c8a78b307abd5/samokaty_kicksharing_new.pdf)  / Metabase  
 - Git / GitHub
 
 **Код и документы**  
