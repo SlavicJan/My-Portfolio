@@ -1,5 +1,6 @@
 ## English Resume
-## [Go to Russian version](#ru)
+[Go to Russian version of Resume](#russian-version-of-resume)
+
 ---
 
 **Welcome!**  
@@ -149,8 +150,9 @@ Conducted ABC-XYZ analysis for major pharmacy chain inventory optimization.
 > **Open to discuss** corporate use cases and customize analytics solutions for your business needs.
 
 
-## [Go to English version](#en)
 ## Russian version of Resume
+[Go to English version](#english-resume)
+
 Добро пожаловать! На этой странице представлены проекты, демонстрирующие навыки работы с данными, статистическим анализом и SQL.
 Email: svyatoslav263@gmail.com
 Telegram: [@vaglover228](https://t.me/vaglover228)
