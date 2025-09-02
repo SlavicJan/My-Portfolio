@@ -1,5 +1,5 @@
 ## English Resume
-
+## [Go to Russian version](#ru)
 ---
 
 **Welcome!**  
