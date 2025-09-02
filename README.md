@@ -92,7 +92,7 @@ Built a comprehensive self-service analytics platform for corporate clients to m
 - Progress indicators (completed modules, completion speed)  
 - Average task resolution time  
 - All-time most challenging task rankings  
-- DAU, MAU  
+- [DAU, MAU](https://github.com/SlavicJan/My-Portfolio/blob/d5230cf87b1e179c1844d222b56ed03176836178/DAU%2C%20WAU%2C%20MAU%20.sql)  
 - [N-day retention on SQL](https://github.com/SlavicJan/My-Projects/blob/main/%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20N-day%20retention%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7.sql)  
 - Sticky factor 
 - Average daily user balance  
