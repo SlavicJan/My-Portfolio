@@ -26,8 +26,13 @@ This page showcases projects demonstrating skills in data analysis, statistical 
 ### Databases & SQL:
 - [PostgreSQL](https://www.postgresql.org/)
 - [DBeaver](https://dbeaver.com/)
-- [Yandex DataLens](https://datalens.yandex.cloud/)
-- [Metabase](https://metabase.com)
+
+###Visualization tools:
+- [Yandex DataLens!!!](https://datalens.yandex.cloud/)
+- [Metabase!!!](https://metabase.com)
+- [Power BI!!!]()
+- [Looker] ()
+- [Google Analytics] ()
 
 ---
 
@@ -145,7 +150,7 @@ Conducted ABC-XYZ analysis for major pharmacy chain inventory optimization.
 
 
 ## [Go to English version](#en)
-
+## Russian version of Resume
 Добро пожаловать! На этой странице представлены проекты, демонстрирующие навыки работы с данными, статистическим анализом и SQL.
 Email: svyatoslav263@gmail.com
 Telegram: [@vaglover228](https://t.me/vaglover228)
@@ -164,13 +169,19 @@ Telegram: [@vaglover228](https://t.me/vaglover228)
 ### Среда разработки:
 - [Jupyter Notebook](https://jupyter.org/)  [позже дам ссылки на проекты ](#)
 - [Google Colab](https://colab.research.google.com/) 
-- [Intellij IDEA Community edition](https://www.jetbrains.com/ru-ru/idea/) 
+- [Intellij IDEA Community edition](https://www.jetbrains.com/ru-ru/idea/)
+- [Windsurf]() 
 
 ### Базы данных и SQL:
 - [PostgreSQL](https://www.postgresql.org/)
 - [DBeaver](https://dbeaver.com/)
-- [Yandex DataLens](https://datalens.yandex.cloud/)
-- [Metabase](Metabase.com)
+
+### Визуализация, инструменты:
+- [Yandex DataLens!!!](https://datalens.yandex.cloud/)
+- [Power BI!!!]()
+- [Metabase!!!](Metabase.com)
+- [Looker]()
+- [Google Analytics]()
 
 ---
 
