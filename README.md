@@ -4,9 +4,17 @@
 ---
 
 **Welcome!**  
-This page showcases projects demonstrating skills in data analysis, statistical modeling, and SQL.  
+This page showcases projects demonstrating my skills in data analysis, statistical modeling, and SQL.  
 📧 Email: svyatoslav263@gmail.com  
 ✉️ Telegram: [@vaglover228](https://t.me/vaglover228)
+
+ <a href="https://linkedin.com/in/svyatoslav-smolskiy-470b7924a" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="16" height="16">
+</a>
+LinkedIn Profile](https://linkedin.com/in/svyatoslav-smolskiy-470b7924a)
+
+
+
 
 ## 🔧 Skills & Tools
 
@@ -156,6 +164,10 @@ Conducted ABC-XYZ analysis for major pharmacy chain inventory optimization.
 Добро пожаловать! На этой странице представлены проекты, демонстрирующие навыки работы с данными, статистическим анализом и SQL.
 Email: svyatoslav263@gmail.com
 Telegram: [@vaglover228](https://t.me/vaglover228)
+ <a href="https://linkedin.com/in/svyatoslav-smolskiy-470b7924a" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="16" height="16">
+</a>
+LinkedIn Profile](https://linkedin.com/in/svyatoslav-smolskiy-470b7924a)
 
 ## 🔧 Навыки и инструменты
 
