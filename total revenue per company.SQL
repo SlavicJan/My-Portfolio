@@ -8,7 +8,7 @@ join users u on
 join company c on
 	u.company_id = c.id
 where
-	type_id in (2, 23, 24, 25, 26, 27, 28)
+	type_id in (1, 23, 24, 25, 26, 27, 28)
 group by
 	c.name
 order by

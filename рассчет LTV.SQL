@@ -9,7 +9,7 @@ revenue as (
        t.user_id,
        sum(t.value) as total_revenue
    from transaction t
-   where type_id in (2,23,24,25,26,27,28)
+   where type_id in (1,23,24,25,26,27,28)
    group by t.user_id
 )
 select
