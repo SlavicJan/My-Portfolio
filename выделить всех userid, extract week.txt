@@ -1,0 +1,27 @@
+выделить всех userid, extract week from ...
+где дата первого запуска(мин)
+ после 2023-03-01 и eventname='launch'
+
+извлечь недели 
+посчитать всех пользователей уникальн
+
+
+для каждой когорты по джоину  посчитать разницу 
+
+with a as(select user_id, min(time) over (partition by user_id) as "дата первого запуска приложения"
+, min(time) over (partition by user_id) + interval '14 days' as last_day_of_period --крайний день для between
+, time --оставляем время события
+, eventname
+from table
+where  and time>'2023-03-01' --
+select count (distinct user_id), extract("week" from "дата первого запуска приложения),
+from a
+where eventname='launch' and time between "дата первого запуска приложения" and last_day_of_period
+and store_time from (select user_id, min(time) as store_time
+from table
+where product is null) >='2024-03-01'
+
+
+select user_id, min(time) as store_time
+from table
+where product is null
