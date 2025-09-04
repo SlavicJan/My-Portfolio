@@ -1,11 +1,20 @@
 ## English Resume
+[Go to Russian version of Resume](#russian-version-of-resume)
 
 ---
 
-**Welcome!**  
-This page showcases projects demonstrating skills in data analysis, statistical modeling, and SQL.  
+# ***Welcome!***  
+This page showcases projects demonstrating my skills in data analysis, statistical modeling, and SQL.  
 📧 Email: svyatoslav263@gmail.com  
 ✉️ Telegram: [@vaglover228](https://t.me/vaglover228)
+
+ <a href="https://linkedin.com/in/svyatoslav-smolskiy-470b7924a" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="16" height="16">
+</a>
+[LinkedIn Profile](https://linkedin.com/in/svyatoslav-smolskiy-470b7924a)
+
+
+
 
 ## 🔧 Skills & Tools
 
@@ -26,8 +35,13 @@ This page showcases projects demonstrating skills in data analysis, statistical 
 ### Databases & SQL:
 - [PostgreSQL](https://www.postgresql.org/)
 - [DBeaver](https://dbeaver.com/)
-- [Yandex DataLens](https://datalens.yandex.cloud/)
-- [Metabase](https://metabase.com)
+
+## Visualization tools:
+- [Yandex DataLens!!!](https://datalens.yandex.cloud/)
+- [Metabase!!!](https://metabase.com)
+- [Power BI!!!]()
+- [Looker]()
+- [Google Analytics]()
 
 ---
 
@@ -78,7 +92,7 @@ Built a comprehensive self-service analytics platform for corporate clients to m
 - Progress indicators (completed modules, completion speed)  
 - Average task resolution time  
 - All-time most challenging task rankings  
-- DAU, MAU  
+- [DAU, MAU](https://github.com/SlavicJan/My-Portfolio/blob/d5230cf87b1e179c1844d222b56ed03176836178/DAU%2C%20WAU%2C%20MAU%20.sql)  
 - [N-day retention on SQL](https://github.com/SlavicJan/My-Projects/blob/main/%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20N-day%20retention%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7.sql)  
 - Sticky factor 
 - Average daily user balance  
@@ -98,7 +112,7 @@ Built a comprehensive self-service analytics platform for corporate clients to m
 #### Technologies:
 - Python (Pandas, NumPy, Seaborn)  
 - SQL (PostgreSQL)  
-- Power BI / Metabase  
+- [Power BI](https://github.com/SlavicJan/My-Projects/blob/3c823fb44cacb64f4baae0493f7c8a78b307abd5/samokaty_kicksharing_new.pdf) / Metabase  
 - Git / GitHub  
 
 **Code & Documentation**  
@@ -144,11 +158,17 @@ Conducted ABC-XYZ analysis for major pharmacy chain inventory optimization.
 > **Open to discuss** corporate use cases and customize analytics solutions for your business needs.
 
 
-## [Go to English version](#en)
+## Russian version of Resume
+[Go to English version](#english-resume)
 
-Добро пожаловать! На этой странице представлены проекты, демонстрирующие навыки работы с данными, статистическим анализом и SQL.
+# Добро пожаловать! 
+На этой странице представлены проекты, демонстрирующие навыки работы с данными, статистическим анализом и SQL.
 Email: svyatoslav263@gmail.com
 Telegram: [@vaglover228](https://t.me/vaglover228)
+ <a href="https://linkedin.com/in/svyatoslav-smolskiy-470b7924a" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="16" height="16">
+</a>
+[LinkedIn Profile](https://linkedin.com/in/svyatoslav-smolskiy-470b7924a)
 
 ## 🔧 Навыки и инструменты
 
@@ -164,19 +184,25 @@ Telegram: [@vaglover228](https://t.me/vaglover228)
 ### Среда разработки:
 - [Jupyter Notebook](https://jupyter.org/)  [позже дам ссылки на проекты ](#)
 - [Google Colab](https://colab.research.google.com/) 
-- [Intellij IDEA Community edition](https://www.jetbrains.com/ru-ru/idea/) 
+- [Intellij IDEA Community edition](https://www.jetbrains.com/ru-ru/idea/)
+- [Windsurf]() 
 
 ### Базы данных и SQL:
 - [PostgreSQL](https://www.postgresql.org/)
 - [DBeaver](https://dbeaver.com/)
-- [Yandex DataLens](https://datalens.yandex.cloud/)
-- [Metabase](Metabase.com)
+
+### Визуализация, инструменты:
+- [Yandex DataLens!!!](https://datalens.yandex.cloud/)
+- [Power BI!!!]()
+- [Metabase!!!](Metabase.com)
+- [Looker]()
+- [Google Analytics]()
 
 ---
 
-## Проекты 
+# Проекты 
  
-# [**Анализ пользовательского поведения на основе данных поездок**](https://github.com/SlavicJan/My-Projects/blob/d19d487c04af3911c2eb80866fb591a9e0ceddce/%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D1%8B%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%D1%8B%20%20(3).pdf)
+## [**Анализ пользовательского поведения на основе данных поездок**](https://github.com/SlavicJan/My-Projects/blob/d19d487c04af3911c2eb80866fb591a9e0ceddce/%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D1%8B%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%D1%8B%20%20(3).pdf)
 
 Провел анализ поведения пользователей сервиса аренды самокатов:
   - Анализ моделей
@@ -185,12 +211,12 @@ Telegram: [@vaglover228](https://t.me/vaglover228)
   - Анализ временных интервалов спроса
   - Анализ стоимости поездки
   - Анализ исторических данных
-# **Итог:**
+## **Итог:**
     Нашел точки роста продукта
     Выдвинул гипотезы по улучшению сервиса
     Предложил маркетинговое решение
 
-# Аналитика для корпоративных клиентов
+## Аналитика для корпоративных клиентов
 
 ## Краткое описание проекта
 
@@ -262,7 +288,7 @@ Telegram: [@vaglover228](https://t.me/vaglover228)
 
 - Python (Pandas, NumPy, Seaborn)  
 - SQL (PostgreSQL)  
-- Power BI / Metabase  
+- [Power BI](https://github.com/SlavicJan/My-Projects/blob/3c823fb44cacb64f4baae0493f7c8a78b307abd5/samokaty_kicksharing_new.pdf)  / Metabase  
 - Git / GitHub
 
 **Код и документы**  
@@ -284,8 +310,8 @@ Telegram: [@vaglover228](https://t.me/vaglover228)
 
 
 
-### [ABC–XYZ анализ аптечной сети](https://github.com/SlavicJan/My-Projects/blob/main/ABC-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0.sql)
-# Провёл ABC-анализ товарной матрицы крупной аптечной сети
+## [ABC–XYZ анализ аптечной сети](https://github.com/SlavicJan/My-Projects/blob/main/ABC-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0.sql)
+## Провёл ABC-анализ товарной матрицы крупной аптечной сети
 <summary>Описание и ход работы</summary>
 
 - Собрал продажные данные из PostgreSQL  
